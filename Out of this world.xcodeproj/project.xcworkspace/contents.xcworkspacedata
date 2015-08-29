@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../TableViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:../TableViewController.m">
+   </FileRef>
+   <FileRef
       location = "self:Out of this world.xcodeproj">
    </FileRef>
 </Workspace>
